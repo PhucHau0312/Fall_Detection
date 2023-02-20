@@ -12,4 +12,4 @@ python train.py --data data/coco_kpts.yaml --cfg cfg/yolov7-w6-pose.yaml --weigh
 
 python3 fall_detection.py (replace your video path)
 ## References
-[https://github.com/WongKinYiu/yolov7/tree/pose](https://github.com/WongKinYiu/yolov7/tree/pose)
+[https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
